@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-11-30T12:44:32.085Z" agent="5.0 (Windows)" version="15.8.7" etag="FCAUEJllK_9a0B64QWPJ" type="github"><diagram id="AYF8uSMVZtptzka6-h01">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-30T13:14:29.608Z" agent="5.0 (Windows)" etag="gQ0_vWfKKQnrRBj7Jpaz" version="15.8.7" type="github">
+  <diagram id="AYF8uSMVZtptzka6-h01" name="Page-1">
+    <mxGraphModel dx="2426" dy="1008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SN2GV_WEW4cwPwz3yS0r-1" value="End-entity certifiactes" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=17;align=center;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="640" height="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="SN2GV_WEW4cwPwz3yS0r-2" value="Data" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;fontFamily=Courier New;align=left;spacingLeft=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="70" width="620" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="SN2GV_WEW4cwPwz3yS0r-3" value="&lt;div&gt;Version: 3&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="60" y="110" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SN2GV_WEW4cwPwz3yS0r-11" value="&lt;pre&gt;Serial Number:&lt;br&gt; 03:04:54:08:f9:ff:10:92:e1:69:fe:49:8f:78:d3:6d:dc:47&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="60" y="150" width="600" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SN2GV_WEW4cwPwz3yS0r-12" value="&lt;pre&gt;Serial Number:&lt;br&gt; 03:04:54:08:f9:ff:10:92:e1:69:fe:49:8f:78:d3:6d:dc:47&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="60" y="210" width="600" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SN2GV_WEW4cwPwz3yS0r-13" value="Signature Algorithm: sha256WithRSAEncryption" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="60" y="270" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SN2GV_WEW4cwPwz3yS0r-15" value="Issuer: C = US, O = Let&#39;s Encrypt, CN = R3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="60" y="310" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SN2GV_WEW4cwPwz3yS0r-16" value="Validity&lt;br&gt;&amp;nbsp; Not Before: Jul 15 08:01:49 2021 GMT&lt;br&gt;&amp;nbsp; Not After : Oct 13 08:01:48 2021 GMT" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="60" y="350" width="600" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="SN2GV_WEW4cwPwz3yS0r-17" value="Subject: CN = *.wikipedia.org" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="60" y="435" width="600" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="SN2GV_WEW4cwPwz3yS0r-18" value="Subject: CN = *.wikipedia.org" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="60" y="477.5" width="600" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="SN2GV_WEW4cwPwz3yS0r-19" value="Subject Public Key Info:&lt;br&gt;&amp;nbsp; Public Key Algorithm: id-ecPublicKey&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;Public-Key: (256 bit)&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;pub:&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp; 04:a5:9a:47:b2:d3:fc:a7:df:de:f6:cb:45:62:0a:&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp; d3:c1:a7:38:de:20:bd:d7:10:7d:58:73:de:8d:a1:&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp; 99:70:0c:dd:ab:91:3f:0e:83:97:1b:4f:a2:99:f3:&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp; f8:30:73:ef:da:be:91:25:18:7a:d6:da:bf:e5:e9:&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp; 72:a3:41:31:7a&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;ASN1 OID: prime256v1&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;NIST CURVE: P-256&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="60" y="522.5" width="600" height="237.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SN2GV_WEW4cwPwz3yS0r-20" value="&lt;div&gt;X509v3 extensions&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Courier New;fontSize=17;fontColor=default;verticalAlign=top;align=left;spacingLeft=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="60" y="770" width="600" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="SN2GV_WEW4cwPwz3yS0r-21" value="&lt;div&gt;X509v3 Key Usage: ...&lt;/div&gt;&lt;div&gt;X509v3 Extended Key Usage: ...&lt;br&gt;&lt;/div&gt;&lt;div&gt; X509v3 Basic Constraints: ...&lt;/div&gt;&lt;div&gt;Authority Information Access: ...&lt;br&gt;&lt;/div&gt;&lt;div&gt;...&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="70" y="810" width="580" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SN2GV_WEW4cwPwz3yS0r-22" value="Signature Algorithm: sha256WithRSAEncryption&lt;br&gt;&amp;nbsp; 8e:f4:d1:85:9c:96:e8:63:d0:38:fd:7a:cc:d5:ad:b2:06:b4:&lt;br&gt;&amp;nbsp; &amp;lt; ------ shorted ------ &amp;gt;&lt;br&gt;&amp;nbsp; 23:cd:75:a0" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="50" y="980" width="620" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
