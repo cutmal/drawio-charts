@@ -1,35 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2021-11-30T09:43:23.519Z" agent="5.0 (Windows)" etag="lNEwjcLobUvo4KU_oRns" version="15.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-08T14:17:47.214Z" agent="5.0 (Windows)" etag="nDVbLzKrdGjCj5aS64ME" version="15.9.1" type="github">
   <diagram id="rRFUTKCY2RcfOUQnv4tR" name="Page-1">
-    <mxGraphModel dx="1221" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1778" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="j4lKWAqUsnPBpEF1H8we-1" value="X.509 with Hybrid" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=17;align=center;fontStyle=5" vertex="1" parent="1">
-          <mxGeometry x="80" y="200" width="640" height="920" as="geometry" />
+        <mxCell id="j4lKWAqUsnPBpEF1H8we-1" value="X.509 with Hybrid" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=17;align=center;fontStyle=5" parent="1" vertex="1">
+          <mxGeometry x="80" y="190" width="640" height="960" as="geometry" />
         </mxCell>
-        <mxCell id="j4lKWAqUsnPBpEF1H8we-3" value="Data" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;fontFamily=Courier New;align=left;spacingLeft=10;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="90" y="230" width="620" height="780" as="geometry" />
+        <mxCell id="j4lKWAqUsnPBpEF1H8we-3" value="Data" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;fontFamily=Courier New;align=left;spacingLeft=10;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="90" y="220" width="620" height="820" as="geometry" />
         </mxCell>
-        <mxCell id="j4lKWAqUsnPBpEF1H8we-5" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Version, Issues, Validy, Subject...&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;" vertex="1" parent="1">
-          <mxGeometry x="100" y="270" width="600" height="70" as="geometry" />
+        <mxCell id="j4lKWAqUsnPBpEF1H8we-5" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Version, Issues, Validy, Subject...&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry x="100" y="250" width="600" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="j4lKWAqUsnPBpEF1H8we-6" value="Subject Public Key Info:&lt;br&gt;&amp;nbsp; Public Key Algorithm: rsaEncryption&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; RSA Public-Key: (3072 bit)&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Modulus:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 00:c0:c7:01:36:7f:b9:f9:fc:12:af:7f:41:9d:02:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt; ------ shorted ------ &amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 72:e1:17:15:35:7a:05:d7:30:9d&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Exponent: 65537 (0x10001)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="j4lKWAqUsnPBpEF1H8we-6" value="Subject Public Key Info:&lt;br&gt;&amp;nbsp; Public Key Algorithm: rsaEncryption&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; RSA Public-Key: (3072 bit)&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Modulus:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 00:c0:c7:01:36:7f:b9:f9:fc:12:af:7f:41:9d:02:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt; ------ shorted ------ &amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 72:e1:17:15:35:7a:05:d7:30:9d&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Exponent: 65537 (0x10001)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="100" y="350" width="600" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="j4lKWAqUsnPBpEF1H8we-7" value="&lt;div&gt;X509v3 extensions&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Courier New;fontSize=17;fontColor=default;verticalAlign=top;align=left;spacingLeft=10;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="100" y="540" width="600" height="460" as="geometry" />
+        <mxCell id="j4lKWAqUsnPBpEF1H8we-7" value="&lt;div&gt;X509v3 extensions&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Courier New;fontSize=17;fontColor=default;verticalAlign=top;align=left;spacingLeft=10;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="100" y="540" width="600" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="j4lKWAqUsnPBpEF1H8we-8" value="X509 Basic Containts, X509v3 Key Usage..." style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Courier New;fontSize=17;fontColor=default;align=left;spacingLeft=10;" vertex="1" parent="1">
-          <mxGeometry x="110" y="580" width="580" height="60" as="geometry" />
+        <mxCell id="j4lKWAqUsnPBpEF1H8we-8" value="X509 Basic Containts, X509v3 Key Usage..." style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Courier New;fontSize=17;fontColor=default;align=left;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry x="110" y="580" width="580" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="j4lKWAqUsnPBpEF1H8we-9" value="&lt;div style=&quot;font-size: 17px&quot;&gt;&lt;span style=&quot;font-family: monospace; font-size: 17px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;X509v3 Hybrid Signature:&lt;br style=&quot;font-size: 17px&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px&quot;&gt;&lt;span dir=&quot;ltr&quot; style=&quot;padding: 0px; margin: 0px; position: absolute; cursor: text; transform-origin: 0% 0% 0px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; left: 261.445px; top: 174.662px; font-size: 17px; font-family: monospace; transform: scaleX(1.00027);&quot;&gt;&lt;/span&gt; &lt;br style=&quot;padding: 0px; margin: 0px; position: absolute; cursor: text; transform-origin: 0% 0% 0px; font-family: &amp;quot;arial&amp;quot;; font-size: 17px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px&quot;&gt;&lt;span style=&quot;font-family: monospace; font-size: 17px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;&amp;nbsp;Signature Algorithm: qteslaI&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px&quot;&gt;&lt;span style=&quot;font-family: monospace; font-size: 17px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;font-family: monospace; font-size: 17px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;Signature dump:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 87:1c:53:21:29:f0:03:e7:57:c2:ef:8f:4d:&lt;br style=&quot;font-size: 17px&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt; ------ shorted ------ &amp;gt;&lt;br style=&quot;font-size: 17px&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 63:c0:8a:f5:50:62:85:c8&lt;br style=&quot;font-size: 17px&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=17;align=left;spacingLeft=10;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="110" y="650" width="580" height="150" as="geometry" />
+        <mxCell id="j4lKWAqUsnPBpEF1H8we-9" value="Alt Signature Value Extension:&lt;br&gt;&amp;nbsp;Signature Algorithm: qteslaI&lt;br&gt;&amp;nbsp;Signature dump:&lt;br&gt;&amp;nbsp;&amp;nbsp; 87:1c:53:21:29:f0:03:e7:57:c2:ef:8f:4d:&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;lt; ------ shorted ------ &amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp; 63:c0:8a:f5:50:62:85:c8" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=17;align=left;spacingLeft=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="110" y="679" width="580" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="j4lKWAqUsnPBpEF1H8we-10" value="&lt;div style=&quot;font-size: 17px;&quot; align=&quot;left&quot;&gt;X509v3 Hybrid Key:&lt;br style=&quot;font-size: 17px;&quot;&gt;&amp;nbsp; Subject Public Key Info:&lt;br style=&quot;font-size: 17px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Public Key Algorithm: qteslaI&lt;br style=&quot;font-size: 17px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; qteslaI Public-Key:&lt;br style=&quot;font-size: 17px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; pub:&lt;br style=&quot;font-size: 17px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; e3:ac:19:97:35:96:75:28:07:23:f1:c1:e6:cb:da:&lt;br style=&quot;font-size: 17px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt; ------ shorted ------ &amp;gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1f:2c:00:e0&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=17;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=10;" vertex="1" parent="1">
-          <mxGeometry x="110" y="810" width="580" height="180" as="geometry" />
+        <mxCell id="j4lKWAqUsnPBpEF1H8we-10" value="Subject Alt Public Key Info Extension:&lt;br&gt;&amp;nbsp; Public Key Algorithm: qteslaI&lt;br&gt;&amp;nbsp; qteslaI Public-Key:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; pub:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; e3:ac:19:97:35:96:75:28:07:23:f1:c1:e6:cb:da:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt; ------ shorted ------ &amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1f:2c:00:e0" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=17;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry x="110" y="839" width="580" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="j4lKWAqUsnPBpEF1H8we-4" value="Signature Algorithm: sha256WithRSAEncryption&lt;br&gt;&amp;nbsp; 47:f0:8a:2c:1b:9f:ff:1d:fb:38:19:f4:14:54:32:9c:9b:6f:&lt;br&gt;&amp;nbsp; &amp;lt; ------ shorted ------ &amp;gt;&lt;br&gt;&amp;nbsp; e7:bb:97:a5:b5:55" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=left;fontFamily=Courier New;spacingLeft=10;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1020" width="620" height="90" as="geometry" />
+        <mxCell id="j4lKWAqUsnPBpEF1H8we-4" value="Signature Algorithm: sha256WithRSAEncryption&lt;br&gt;&amp;nbsp; 47:f0:8a:2c:1b:9f:ff:1d:fb:38:19:f4:14:54:32:9c:9b:6f:&lt;br&gt;&amp;nbsp; &amp;lt; ------ shorted ------ &amp;gt;&lt;br&gt;&amp;nbsp; e7:bb:97:a5:b5:55" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=left;fontFamily=Courier New;spacingLeft=10;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="90" y="1049" width="620" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TsNz1mi7P88TWdjFuRUm-15" value="End-entity certifiactes" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=17;align=center;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="810" y="109" width="640" height="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="TsNz1mi7P88TWdjFuRUm-16" value="Data" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;verticalAlign=top;fontFamily=Courier New;align=left;spacingLeft=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="820" y="139" width="620" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="TsNz1mi7P88TWdjFuRUm-17" value="&lt;div&gt;Version: 3&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="830" y="179" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TsNz1mi7P88TWdjFuRUm-18" value="&lt;pre&gt;Serial Number:&lt;br&gt; 03:04:54:08:f9:ff:10:92:e1:69:fe:49:8f:78:d3:6d:dc:47&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="830" y="219" width="600" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TsNz1mi7P88TWdjFuRUm-19" value="&lt;pre&gt;Serial Number:&lt;br&gt; 03:04:54:08:f9:ff:10:92:e1:69:fe:49:8f:78:d3:6d:dc:47&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="830" y="279" width="600" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TsNz1mi7P88TWdjFuRUm-20" value="Signature Algorithm: sha256WithRSAEncryption" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="830" y="339" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TsNz1mi7P88TWdjFuRUm-21" value="Issuer: C = US, O = Let&#39;s Encrypt, CN = R3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="830" y="379" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TsNz1mi7P88TWdjFuRUm-22" value="Validity&lt;br&gt;&amp;nbsp; Not Before: Jul 15 08:01:49 2021 GMT&lt;br&gt;&amp;nbsp; Not After : Oct 13 08:01:48 2021 GMT" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="830" y="419" width="600" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="TsNz1mi7P88TWdjFuRUm-23" value="Subject: CN = *.wikipedia.org" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="830" y="504" width="600" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="TsNz1mi7P88TWdjFuRUm-24" value="Subject: CN = *.wikipedia.org" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="830" y="546.5" width="600" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="TsNz1mi7P88TWdjFuRUm-25" value="Subject Public Key Info:&lt;br&gt;&amp;nbsp; Public Key Algorithm: id-ecPublicKey&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;Public-Key: (256 bit)&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;pub:&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp; 04:a5:9a:47:b2:d3:fc:a7:df:de:f6:cb:45:62:0a:&lt;br&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt; ------ shorted ------ &amp;gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp; 72:a3:41:31:7a&lt;/div&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;ASN1 OID: prime256v1&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;NIST CURVE: P-256" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="830" y="591.5" width="600" height="237.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TsNz1mi7P88TWdjFuRUm-26" value="&lt;div&gt;X509v3 extensions&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Courier New;fontSize=17;fontColor=default;verticalAlign=top;align=left;spacingLeft=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="830" y="839" width="600" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="TsNz1mi7P88TWdjFuRUm-27" value="&lt;div&gt;X509v3 Key Usage: ...&lt;/div&gt;&lt;div&gt;X509v3 Extended Key Usage: ...&lt;br&gt;&lt;/div&gt;&lt;div&gt; X509v3 Basic Constraints: ...&lt;/div&gt;&lt;div&gt;Authority Information Access: ...&lt;br&gt;&lt;/div&gt;&lt;div&gt;...&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="840" y="879" width="580" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TsNz1mi7P88TWdjFuRUm-28" value="Signature Algorithm: sha256WithRSAEncryption&lt;br&gt;&amp;nbsp; 8e:f4:d1:85:9c:96:e8:63:d0:38:fd:7a:cc:d5:ad:b2:06:b4:&lt;br&gt;&amp;nbsp; &amp;lt; ------ shorted ------ &amp;gt;&lt;br&gt;&amp;nbsp; 23:cd:75:a0" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1049" width="620" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TsNz1mi7P88TWdjFuRUm-29" value="Signature Algorithm: sha256WithRSAEncryption" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="100" y="300" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TsNz1mi7P88TWdjFuRUm-31" value="Alt Signature Algorithm Extension: qteslaI " style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="110" y="630" width="580" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
