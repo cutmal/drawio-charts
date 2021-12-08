@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T14:17:54.593Z" agent="5.0 (Windows)" etag="jmVSiNwIisZchIYCZXoI" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-08T14:18:22.810Z" agent="5.0 (Windows)" etag="iDQcqCxHphu5gihLmxIP" version="15.9.1" type="github">
   <diagram id="rRFUTKCY2RcfOUQnv4tR" name="Page-1">
-    <mxGraphModel dx="3160" dy="1756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2188" dy="1215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="j4lKWAqUsnPBpEF1H8we-5" value="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Version, Issues, Validy, Subject...&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;" parent="1" vertex="1">
           <mxGeometry x="100" y="250" width="600" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="j4lKWAqUsnPBpEF1H8we-6" value="Subject Public Key Info:&lt;br&gt;&amp;nbsp; Public Key Algorithm: rsaEncryption&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; RSA Public-Key: (3072 bit)&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Modulus:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 00:c0:c7:01:36:7f:b9:f9:fc:12:af:7f:41:9d:02:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt; ------ shorted ------ &amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 72:e1:17:15:35:7a:05:d7:30:9d&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Exponent: 65537 (0x10001)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="j4lKWAqUsnPBpEF1H8we-6" value="Subject Public Key Info:&lt;br&gt;&amp;nbsp; Public Key Algorithm: rsaEncryption&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; RSA Public-Key: (3072 bit)&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Modulus:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 00:c0:c7:01:36:7f:b9:f9:fc:12:af:7f:41:9d:02:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt; ------ shorted ------ &amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 72:e1:17:15:35:7a:05:d7:30:9d&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Exponent: 65537 (0x10001)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="100" y="350" width="600" height="180" as="geometry" />
         </mxCell>
         <mxCell id="j4lKWAqUsnPBpEF1H8we-7" value="&lt;div&gt;X509v3 extensions&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Courier New;fontSize=17;fontColor=default;verticalAlign=top;align=left;spacingLeft=10;fontStyle=1" parent="1" vertex="1">
@@ -22,7 +22,7 @@
         <mxCell id="j4lKWAqUsnPBpEF1H8we-8" value="X509 Basic Containts, X509v3 Key Usage..." style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Courier New;fontSize=17;fontColor=default;align=left;spacingLeft=10;" parent="1" vertex="1">
           <mxGeometry x="110" y="580" width="580" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="j4lKWAqUsnPBpEF1H8we-9" value="Alt Signature Value Extension:&lt;br&gt;&amp;nbsp;Signature Algorithm: qteslaI&lt;br&gt;&amp;nbsp;Signature dump:&lt;br&gt;&amp;nbsp;&amp;nbsp; 87:1c:53:21:29:f0:03:e7:57:c2:ef:8f:4d:&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;lt; ------ shorted ------ &amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp; 63:c0:8a:f5:50:62:85:c8" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=17;align=left;spacingLeft=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="j4lKWAqUsnPBpEF1H8we-9" value="Alt Signature Value Extension:&lt;br&gt;&amp;nbsp;Signature Algorithm: qteslaI&lt;br&gt;&amp;nbsp;Signature dump:&lt;br&gt;&amp;nbsp;&amp;nbsp; 87:1c:53:21:29:f0:03:e7:57:c2:ef:8f:4d:&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;lt; ------ shorted ------ &amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp; 63:c0:8a:f5:50:62:85:c8" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=17;align=left;spacingLeft=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="110" y="679" width="580" height="150" as="geometry" />
         </mxCell>
         <mxCell id="j4lKWAqUsnPBpEF1H8we-10" value="Subject Alt Public Key Info Extension:&lt;br&gt;&amp;nbsp; Public Key Algorithm: qteslaI&lt;br&gt;&amp;nbsp; qteslaI Public-Key:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; pub:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; e3:ac:19:97:35:96:75:28:07:23:f1:c1:e6:cb:da:&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt; ------ shorted ------ &amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1f:2c:00:e0" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Courier New;fontSize=17;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=10;" parent="1" vertex="1">
@@ -31,10 +31,10 @@
         <mxCell id="j4lKWAqUsnPBpEF1H8we-4" value="Signature Algorithm: sha256WithRSAEncryption&lt;br&gt;&amp;nbsp; 47:f0:8a:2c:1b:9f:ff:1d:fb:38:19:f4:14:54:32:9c:9b:6f:&lt;br&gt;&amp;nbsp; &amp;lt; ------ shorted ------ &amp;gt;&lt;br&gt;&amp;nbsp; e7:bb:97:a5:b5:55" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=left;fontFamily=Courier New;spacingLeft=10;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="90" y="1049" width="620" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TsNz1mi7P88TWdjFuRUm-29" value="Signature Algorithm: sha256WithRSAEncryption" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="TsNz1mi7P88TWdjFuRUm-29" value="Signature Algorithm: sha256WithRSAEncryption" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="100" y="300" width="600" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TsNz1mi7P88TWdjFuRUm-31" value="Alt Signature Algorithm Extension: qteslaI " style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="TsNz1mi7P88TWdjFuRUm-31" value="Alt Signature Algorithm Extension: qteslaI " style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="630" width="580" height="40" as="geometry" />
         </mxCell>
       </root>
