@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T21:19:24.727Z" agent="5.0 (Windows)" etag="VJvMtFf0Zct09mmBZ1rR" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-15T21:26:20.639Z" agent="5.0 (Windows)" etag="wqjarxZOlYYZHMoGE33f" version="15.9.6" type="github">
   <diagram id="zFLAfv_WcJNnAX5Xung2" name="Page-1">
-    <mxGraphModel dx="2861" dy="2299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2373" dy="2487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,14 +37,14 @@
         <mxCell id="GjHwaFtGL31ITLqTles9-14" value="Signature Algorithm: sha256WithqCRYSTALSDILITHIUMEncryption" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="480" y="235" width="640" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GjHwaFtGL31ITLqTles9-15" value="&lt;h1&gt;Mode AND (Composite&amp;nbsp;Public&amp;nbsp;Key)&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="-25" width="410" height="30" as="geometry" />
+        <mxCell id="GjHwaFtGL31ITLqTles9-15" value="&lt;h1&gt;Mode AND&lt;/h1&gt;&lt;h1&gt;(Composite&amp;nbsp;Public&amp;nbsp;Key)&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="45" width="90" height="285" as="geometry" />
         </mxCell>
         <mxCell id="GjHwaFtGL31ITLqTles9-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=17;strokeColor=default;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="GjHwaFtGL31ITLqTles9-16" target="GjHwaFtGL31ITLqTles9-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GjHwaFtGL31ITLqTles9-16" value="&lt;h1&gt;Mode OR (Composite-OR&amp;nbsp;Public&amp;nbsp;Key)&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="-25" width="430" height="30" as="geometry" />
+        <mxCell id="GjHwaFtGL31ITLqTles9-16" value="&lt;h1&gt;Mode OR &lt;br&gt;&lt;/h1&gt;&lt;h1&gt;(Composite-OR&amp;nbsp;Public&amp;nbsp;Key)&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="20" width="100" height="320" as="geometry" />
         </mxCell>
         <mxCell id="GjHwaFtGL31ITLqTles9-18" value="&amp;lt;signature value of sha256WithqteslaIEncryption&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="480" y="825" width="640" height="40" as="geometry" />
@@ -90,6 +90,18 @@
             <mxPoint x="1210" as="sourcePoint" />
             <mxPoint x="1140" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GjHwaFtGL31ITLqTles9-44" value="The generation of signatures can either be the signature value or null" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=14.57;dy=0;boundedLbl=1;fontFamily=Courier New;fontSize=17;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="380" width="270" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="GjHwaFtGL31ITLqTles9-45" value="The verification can use on the the signatures for verificaiton" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=11.71;dy=0;boundedLbl=1;fontFamily=Courier New;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="560" width="270" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="GjHwaFtGL31ITLqTles9-46" value="All signatures are generates" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=37.43;dy=0;boundedLbl=1;fontFamily=Courier New;fontSize=17;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="150" y="380" width="270" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="GjHwaFtGL31ITLqTles9-47" value="All signatures are verified" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=23.14;dy=0;boundedLbl=1;fontFamily=Courier New;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="150" y="560" width="270" height="155" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
