@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T20:34:45.046Z" agent="5.0 (Windows)" version="15.9.6" etag="PoZrwgyW-EH5YFG1mp5a" type="github"><diagram id="zFLAfv_WcJNnAX5Xung2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-15T21:01:40.467Z" agent="5.0 (Windows)" etag="fpiEpgzdJljBFA0ycjqm" version="15.9.6" type="github">
+  <diagram id="zFLAfv_WcJNnAX5Xung2" name="Page-1">
+    <mxGraphModel dx="2034" dy="2299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GjHwaFtGL31ITLqTles9-1" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="380" width="640" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="GjHwaFtGL31ITLqTles9-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GjHwaFtGL31ITLqTles9-6" target="GjHwaFtGL31ITLqTles9-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GjHwaFtGL31ITLqTles9-6" value="Subject Public Key Info:&lt;br&gt;&lt;div&gt;&amp;nbsp; Public Key Algorithm: qteslaI&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;algorithm parameters&amp;gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="490" y="390" width="620" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GjHwaFtGL31ITLqTles9-7" value="Subject Public Key Info:&lt;br&gt;&lt;div&gt;&amp;nbsp; Public Key Algorithm: FALCON&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;algorithm parameters&amp;gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="490" y="470" width="620" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GjHwaFtGL31ITLqTles9-8" value="Subject Public Key Info:&lt;br&gt;&lt;div&gt;&amp;nbsp; Public Key Algorithm: Rainbow&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;algorithm parameters&amp;gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="490" y="550" width="620" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GjHwaFtGL31ITLqTles9-9" value="Subject Public Key Info:&lt;br&gt;&lt;div&gt;&amp;nbsp; Public Key Algorithm: CRYSTALS-DILITHIUM&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;algorithm parameters&amp;gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="490" y="630" width="620" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GjHwaFtGL31ITLqTles9-10" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="40" width="640" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="GjHwaFtGL31ITLqTles9-11" value="&lt;div&gt;Signature Algorithm: sha256WithqteslaIEncryption&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="490" y="50" width="620" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GjHwaFtGL31ITLqTles9-12" value="&lt;br&gt;&lt;div&gt;Signature Algorithm: sha256WithFALCONEncryption&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="490" y="130" width="620" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GjHwaFtGL31ITLqTles9-13" value="Signature Algorithm: sha256WithRSAEncryption" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="490" y="210" width="620" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GjHwaFtGL31ITLqTles9-14" value="Signature Algorithm: sha256WithqCRYSTALSDILITHIUMEncryption" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="490" y="290" width="620" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GjHwaFtGL31ITLqTles9-15" value="&lt;h1&gt;Mode AND (Composite&amp;nbsp;Public&amp;nbsp;Key)&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="10" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GjHwaFtGL31ITLqTles9-16" value="&lt;h1&gt;Mode OR (Composite-OR&amp;nbsp;Public&amp;nbsp;Key)&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1154" y="10" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GjHwaFtGL31ITLqTles9-17" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="720" width="640" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="GjHwaFtGL31ITLqTles9-18" value="&amp;lt;signature value of sha256WithqteslaIEncryption&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="490" y="730" width="620" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GjHwaFtGL31ITLqTles9-19" value="&amp;lt;signature value of sha256WithFALCONEncryption&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="490" y="810" width="620" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GjHwaFtGL31ITLqTles9-20" value="&amp;lt;signature value of sha256WithRSAEncryption&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="490" y="890" width="620" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GjHwaFtGL31ITLqTles9-21" value="&amp;lt;signature value of sha256WithqCRYSTALSDILITHIUMEncryption&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=left;spacingLeft=10;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="490" y="970" width="620" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
