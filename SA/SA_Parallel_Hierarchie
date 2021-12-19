@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-19T21:12:07.635Z" agent="5.0 (Windows)" etag="UkvSidoHByw5kGOLY1V1" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-19T21:13:00.628Z" agent="5.0 (Windows)" etag="XddP9Hvr5yN7Pjl_L3iB" version="15.9.6" type="github">
   <diagram id="NcEHzzIdCA1hT1WPW_5q" name="Page-1">
     <mxGraphModel dx="1422" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,7 +78,7 @@
           <mxGeometry x="20" y="10" width="680" height="640" as="geometry" />
         </mxCell>
         <mxCell id="SCmRlFdyF-srSBqcVkgy-36" value="Traditional Algorithms" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="SCmRlFdyF-srSBqcVkgy-30">
-          <mxGeometry x="-10" y="30" width="340" height="30" as="geometry" />
+          <mxGeometry y="30" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SCmRlFdyF-srSBqcVkgy-37" value="Post-Quantum Algorithms" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="SCmRlFdyF-srSBqcVkgy-30">
           <mxGeometry x="340" y="30" width="340" height="30" as="geometry" />
