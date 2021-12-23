@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T22:16:12.864Z" agent="5.0 (Windows)" etag="oruRo_3gbU-V9lEEtMPq" version="16.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-23T22:28:02.124Z" agent="5.0 (Windows)" etag="YkEm6iAIogtDB84zs9bd" version="16.0.3" type="github" pages="2">
   <diagram id="zFLAfv_WcJNnAX5Xung2" name="Page-1">
     <mxGraphModel dx="1038" dy="1743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -408,9 +408,6 @@
         </mxCell>
         <mxCell id="uuPuJTN_xV8Hg3697UtW-114" value="NULL" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fontFamily=Courier New;align=center;spacingLeft=0;verticalAlign=middle;spacing=0;" parent="uuPuJTN_xV8Hg3697UtW-65" vertex="1">
           <mxGeometry x="230" y="400" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="uuPuJTN_xV8Hg3697UtW-115" value="Only one has to be valid" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Courier New;fontSize=17;position2=0.5;size=30;position=0.42;base=20;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="uuPuJTN_xV8Hg3697UtW-65" vertex="1">
-          <mxGeometry x="540" y="310" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
